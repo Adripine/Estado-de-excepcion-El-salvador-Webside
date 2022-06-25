@@ -1,0 +1,20 @@
+body{
+  background-color:lightblue;
+}
+h1 {
+color:black;
+  background-color:white;
+  border:solid;
+}
+h2{
+  background-color:yellow
+}
+.autor{
+color:red;
+  background-color:azure;
+  border: solid;
+}
+img¨{
+  height:400px;
+  width:400px;
+}
